@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mih:home|Door43 (mih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mih|d43-mih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mih/archive/master.zip|d43-mih.zip]]
+
+**Recent Changes**
+{{changes>ns = mih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mih|Ethnologue data]]
+
